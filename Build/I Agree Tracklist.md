@@ -1,3 +1,15 @@
+Menu
+* Besaid Island (FFX)
+* Aquatic Mine (Sonic Adventure 2)
+* Koopa Soiree (Mario Party 4)
+* Gelato Beach (Mario Sunshine)
+* Busted Bayou (DKCTF)
+* Surfing on a Sine Wave (Fearofdark)
+* Blissful (de Blob)
+* Beach Walk (Whitewoods)
+
+
+
 Seaside Hill (GHZ)
 
 * Wave Ocean (Sonic 06)
@@ -41,7 +53,7 @@ Dream Land
 * DeDeDe Royal Payback (Kirby Triple Deluxe)
 * Here Come the Squeaks! (Kirby Star Allies)
 * Machine Passage (Kirby Air Ride)
-* Blooper Bay (Mario Golf Toadstool Tour)
+* Daisy Cruiser (Mario Kart 8)
 * Blooper Bay (Mario Golf Toadstool Tour)
 
 
@@ -66,7 +78,7 @@ Surfville (SV)
 * Thank you, Dee Jay (SF2HD)
 * Move Me (Ridge Racer Type 4)
 * Sunset Rush (Alpine Racer 3)
-* It's Kill or Be Killed (No More Heroes 2)
+* It's Kill or Be Killed (No More Heroes 2) *Zero frequency track*
 
 
 
