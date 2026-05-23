@@ -101,7 +101,7 @@ Surf Stadium (PS2)
 * Silver Lining SPECIAL ARRANGE (Eschatos)
 * Hydrogen (M.O.O.N. / Hotline Miami)
 * Shady Seagull (Monster Prom)
-* Boss (Beta Mix) - \[Plok!]
+* Boss (Beta Mix) - [Plok!]
 * Launch Ocotpus (MyNewSoundtrack)
 
 
@@ -112,7 +112,7 @@ Hyrule Courtyard (LM)
 * Dragon Roost Island (ToxicxEternity)
 * Gerudo Valley Remix (Smash Ultimate)
 * Molgera (Hyrule Warriors)
-* Watery Graves (Latin Jazz) \[Plants vs Zombies]
+* Watery Graves (Latin Jazz) [Plants vs Zombies]
 * Strange Memories of Death (Tee Lopes)
 * Run (iamthekidyouknowwhatimean / Hotline Miami)
 
@@ -123,9 +123,9 @@ Distant Planet
 * Jungle Bump (Cruis'n World)
 * Greenhorn Forest
 * Tropical Crust (Pizza Tower)
-* Greenhorn Forest (P+
-* Main Theme (Pikmin) \[vBrawl]
-* World Map (Pikmin 2) \[vBrawl]
+* Greenhorn Forest (P+)
+* Main Theme (Pikmin) [vBrawl]
+* World Map (Pikmin 2) [vBrawl]
 
 
 
@@ -139,3 +139,8 @@ Final Destination
 * 347 Midnight Demons (Carpenter Brut)
 * Turbo Killer (Carpenter Brut)
 
+
+
+Results Screen
+
+* Replay (Pilotwings 64)
