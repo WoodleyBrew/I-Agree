@@ -1,3 +1,15 @@
+Menu
+* Besaid Island (FFX)
+* Aquatic Mine (Sonic Adventure 2)
+* Koopa Soiree (Mario Party 4)
+* Gelato Beach (Mario Sunshine)
+* Busted Bayou (DKCTF)
+* Surfing on a Sine Wave (Fearofdark)
+* Blissful (de Blob)
+* Beach Walk (Whitewoods)
+
+
+
 Seaside Hill (GHZ)
 
 * Wave Ocean (Sonic 06)
